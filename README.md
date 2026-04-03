@@ -1,7 +1,7 @@
 ###
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Hugging%20Face.webp" alt="Hugging Face" width="25" height="25" />
 <h1 align="left">
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Hugging%20Face.webp" alt="Hugging Face" width="25" height="25" />
    Welcome to Galaxyguru's Github
 </h1>
 
