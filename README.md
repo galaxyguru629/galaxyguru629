@@ -1,8 +1,11 @@
 ###
-<h1 align="left">Welcome to Galaxyguru's Github</h1>
+
+<h1 align="left">
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Hugging%20Face.webp" alt="Hugging Face" width="25" height="25" />
+   Welcome to Galaxyguru's Github
+</h1>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  min-width="300px" max-width="600px" width="600px" >
-
    
 - :telescope: Full stack Web developer
 - :seedling: Looking for projects.
