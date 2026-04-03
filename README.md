@@ -1,16 +1,25 @@
 ###
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Hugging%20Face.webp" alt="Hugging Face" width="25" height="25" />
+
 <h1 align="left">
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Hugging%20Face.webp" alt="Hugging Face" width="60" height="60" />
    Welcome to Galaxyguru's Github
 </h1>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  min-width="300px" max-width="600px" width="600px" >
-   
-- :telescope: Full stack Web developer
-- :seedling: Looking for projects.
-- :mailbox: Contact me through my *[Email](mailto:galaxyguru629@gmail.com)*
-    
+
+<p>
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="25" height="25" />
+   Full stack developer
+</p>
+<p>
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" />
+   Looking for a large project
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" />
+   Contact me through my *[Email](mailto:galaxyguru629@gmail.com)*
+</p> 
 </br></br>
 
 <h3 align="left">Front-end</h3>
