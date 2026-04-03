@@ -18,7 +18,7 @@
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="30" height="30" />
-   galaxyguru629@gmail.com
+   <a>galaxyguru629@gmail.com</a>
 </p> 
 </br></br>
 
