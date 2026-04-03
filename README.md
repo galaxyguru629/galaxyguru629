@@ -21,9 +21,6 @@
 - :telescope: Full stack Web developer
 - :seedling: Looking for projects.
 - :mailbox: Contact me through my *[Email](mailto:galaxyguru629@gmail.com)*
-
-
-  <img src="https://komarev.com/ghpvc/?username=galaxyguru629&label=Profile%20views&color=0e75b6&style=flat" alt="galaxyguru629" align="right" />
     
 </br></br>
 
