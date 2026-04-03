@@ -1,14 +1,7 @@
 ###
 <h1 align="left">Welcome to Galaxyguru's Github</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galaxyguru629/galaxyguru629/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galaxyguru629/galaxyguru629/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/galaxyguru629/galaxyguru629/output/pacman-contribution-graph.svg">
-</picture>
-
-### 📖 About Me:
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  min-width="300px" max-width="600px" width="600px" >
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  min-width="300px" max-width="600px" width="600px" >
 
    
 - :telescope: Full stack Web developer
