@@ -1,11 +1,5 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
 ###
-
 <h1 align="left">Welcome to Galaxyguru's Github</h1>
-
 ###
 
 <picture>
@@ -15,9 +9,7 @@
 </picture>
 
 ### 📖 About Me:
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  min-width="300px" max-width="300px" width="400px" >
-   
-    
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  min-width="300px" max-width="600px" width="600px" >
 - :telescope: Full stack Web developer
 - :seedling: Looking for projects.
 - :mailbox: Contact me through my *[Email](mailto:galaxyguru629@gmail.com)*
@@ -27,7 +19,6 @@
 <h3 align="left">Front-end</h3>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
