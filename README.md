@@ -1,6 +1,5 @@
 ###
 <h1 align="left">Welcome to Galaxyguru's Github</h1>
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galaxyguru629/galaxyguru629/output/pacman-contribution-graph-dark.svg">
