@@ -14,6 +14,21 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/galaxyguru629/galaxyguru629/output/pacman-contribution-graph.svg">
 </picture>
 
+### 📖 About Me:
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"  min-width="300px" max-width="300px" width="400px" align="right" align="right">
+   
+    
+- :telescope: Student at NITA, focusing on frontend development.
+- :seedling: Exploring Open-Source and Technical Writing.
+- :zap: Solving problems on GeeksforGeeks and reading tech articles.
+- :briefcase: [View my resume](https://drive.google.com/file/d/1JA-tWTNfHJocAkxssHZ1ZbUrqmfgY778/view?usp=sharing).
+- :mailbox: Contact me through my *[Email](mailto:ayushdeb848@gmail.com)*
+
+
+  <img src="https://komarev.com/ghpvc/?username=ayush-848&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-848" align="right" />
+    
+</br></br>
+
 ###
 
 <h3 align="left">Front-end</h3>
