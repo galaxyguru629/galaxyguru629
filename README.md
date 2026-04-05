@@ -19,7 +19,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" width="30" height="30" />
-  <a href="mailto:galaxyguru629@gmail.com"><b>Contact Me</b></a>
+  <a href="mailto:galaxyguru629@gmail.com"><b>galaxyguru629@gmail.com</b></a>
 </p>
 </br></br>
 
