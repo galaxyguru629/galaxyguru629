@@ -17,9 +17,10 @@
    Looking for a large project
 </p>
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="30" height="30" />
-   [Mail](mailto:galaxyguru629@gmail.com)
- 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" width="30" height="30" />
+  <a href="mailto:galaxyguru629@gmail.com"><b>Contact Me</b></a>
+</p>
 </br></br>
 
 <h3 align="left">Front-end</h3>
