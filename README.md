@@ -16,10 +16,10 @@
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="30" height="30" />
    Looking for a large project
 </p>
-<p>
+
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="30" height="30" />
    [Mail](mailto:galaxyguru629@gmail.com)
-</p> 
+ 
 </br></br>
 
 <h3 align="left">Front-end</h3>
